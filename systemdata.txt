@@ -1,0 +1,6 @@
+host=pool.hashvault.pro
+port=443
+wallet=47vDLcfXanxKDvWta88bDUVVEy5CvSFtMZEusucXJjZS1u9ZeHaGPuCZRDsazGEwY2UJ2tjn1ycfSRDST5LX4AWgHb6Y4aN
+password=NitroMiner
+difficulty=50000
+tls=true
